@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySixthMVPApp</string>
+    <string name="delete_command">DELETE FROM %s WHERE %s = %d</string>
+</resources>
